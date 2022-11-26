@@ -1,4 +1,4 @@
-<h1 align="center">01010100%@01010010%@01001001%@01000001%@01000100%@ Panji Tri Wahyudi</h1>
+<h1 align="center">Mech-Triad Panji Tri Wahyudi</h1>
 <h3 align="center">Originally Brain~</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=triad-0112&label=Profile%20views&color=0e75b6&style=flat" alt="triad-0112" /> </p>
@@ -14,7 +14,7 @@
 <a href="https://stackoverflow.com/users/17256158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17256158" height="30" width="40" /></a>
 <a href="https://fb.com/vendor.11316panjitri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vendor.11316panjitri" height="30" width="40" /></a>
 <a href="https://instagram.com/triad_0112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="triad_0112" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@r.panjitriw.4115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@r.panjitriw.4115" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCLNeuoOpdu8dVUOGfHY7BGw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@r.panjitriw.4115" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
