@@ -1,4 +1,4 @@
-<h1 align="center">Mech-Triad Panji Tri Wahyudi</h1>
+<h1 align="center">Mech-Triad R Panji Tri Wahyudi</h1>
 <h3 align="center">Originally Brain~</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=triad-0112&label=Profile%20views&color=0e75b6&style=flat" alt="triad-0112" /> </p>
